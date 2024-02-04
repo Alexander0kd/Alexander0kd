@@ -2,7 +2,7 @@
 <h3 align="center">Junior AI Integration Specialist, Junior Software Developer</h3>
 
 
-<h2> My Skills </h2>
+<h3> My Skills </h3>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -11,7 +11,7 @@
 
 <hr />
 
-### Additional Important skills
+<h3> Additional Important skills </h3>
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
